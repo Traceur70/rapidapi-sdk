@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\t70.rapidapi-sdk\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88D2052D-EC80-412C-866E-54B39195CA30}|RapidAPI\\RapidAPI.csproj|c:\\projects\\t70.rapidapi-sdk\\src\\rapidapi\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D2052D-EC80-412C-866E-54B39195CA30}|RapidAPI\\RapidAPI.csproj|solutionrelative:rapidapi\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Projects\\t70.rapidapi-sdk\\src\\RapidAPI\\Class1.cs",
+              "RelativeDocumentMoniker": "RapidAPI\\Class1.cs",
+              "ToolTip": "C:\\Projects\\t70.rapidapi-sdk\\src\\RapidAPI\\Class1.cs",
+              "RelativeToolTip": "RapidAPI\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T18:10:14.075Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

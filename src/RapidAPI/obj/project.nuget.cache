@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "wi0LXyshhycNBIHPzHzMT1k+89Cl3UL8hLPEkJqxjYxOg1pwXn/AiqDuj58K74rj9wUfQid9eHhK+1m/apJxYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\t70.rapidapi-sdk\\src\\RapidAPI\\RapidApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\trace\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0-rc.2.23479.6\\microsoft.extensions.configuration.8.0.0-rc.2.23479.6.nupkg.sha512",
+    "C:\\Users\\trace\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0-rc.2.23479.6\\microsoft.extensions.configuration.abstractions.8.0.0-rc.2.23479.6.nupkg.sha512",
+    "C:\\Users\\trace\\.nuget\\packages\\microsoft.extensions.configuration.binder\\8.0.0-rc.2.23479.6\\microsoft.extensions.configuration.binder.8.0.0-rc.2.23479.6.nupkg.sha512",
+    "C:\\Users\\trace\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0-rc.2.23479.6\\microsoft.extensions.dependencyinjection.8.0.0-rc.2.23479.6.nupkg.sha512",
+    "C:\\Users\\trace\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0-rc.2.23479.6\\microsoft.extensions.dependencyinjection.abstractions.8.0.0-rc.2.23479.6.nupkg.sha512",
+    "C:\\Users\\trace\\.nuget\\packages\\microsoft.extensions.diagnostics\\8.0.0-rc.2.23479.6\\microsoft.extensions.diagnostics.8.0.0-rc.2.23479.6.nupkg.sha512",
+    "C:\\Users\\trace\\.nuget\\packages\\microsoft.extensions.diagnostics.abstractions\\8.0.0-rc.2.23479.6\\microsoft.extensions.diagnostics.abstractions.8.0.0-rc.2.23479.6.nupkg.sha512",
+    "C:\\Users\\trace\\.nuget\\packages\\microsoft.extensions.http\\8.0.0-rc.2.23479.6\\microsoft.extensions.http.8.0.0-rc.2.23479.6.nupkg.sha512",
+    "C:\\Users\\trace\\.nuget\\packages\\microsoft.extensions.http.polly\\8.0.0-rc.2.23480.2\\microsoft.extensions.http.polly.8.0.0-rc.2.23480.2.nupkg.sha512",
+    "C:\\Users\\trace\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0-rc.2.23479.6\\microsoft.extensions.logging.8.0.0-rc.2.23479.6.nupkg.sha512",
+    "C:\\Users\\trace\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0-rc.2.23479.6\\microsoft.extensions.logging.abstractions.8.0.0-rc.2.23479.6.nupkg.sha512",
+    "C:\\Users\\trace\\.nuget\\packages\\microsoft.extensions.options\\8.0.0-rc.2.23479.6\\microsoft.extensions.options.8.0.0-rc.2.23479.6.nupkg.sha512",
+    "C:\\Users\\trace\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\8.0.0-rc.2.23479.6\\microsoft.extensions.options.configurationextensions.8.0.0-rc.2.23479.6.nupkg.sha512",
+    "C:\\Users\\trace\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0-rc.2.23479.6\\microsoft.extensions.primitives.8.0.0-rc.2.23479.6.nupkg.sha512",
+    "C:\\Users\\trace\\.nuget\\packages\\polly\\7.2.4\\polly.7.2.4.nupkg.sha512",
+    "C:\\Users\\trace\\.nuget\\packages\\polly.core\\8.1.0\\polly.core.8.1.0.nupkg.sha512",
+    "C:\\Users\\trace\\.nuget\\packages\\polly.extensions\\8.1.0\\polly.extensions.8.1.0.nupkg.sha512",
+    "C:\\Users\\trace\\.nuget\\packages\\polly.extensions.http\\3.0.0\\polly.extensions.http.3.0.0.nupkg.sha512",
+    "C:\\Users\\trace\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.0-rc.2.23479.6\\system.diagnostics.diagnosticsource.8.0.0-rc.2.23479.6.nupkg.sha512"
+  ],
+  "logs": []
+}

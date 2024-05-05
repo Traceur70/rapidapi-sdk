@@ -1,0 +1,16 @@
+C:\Projects\t70.rapidapi-sdk\src\Tests\obj\Debug\net8.0\Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\t70.rapidapi-sdk\src\Tests\obj\Debug\net8.0\Tests.AssemblyInfoInputs.cache
+C:\Projects\t70.rapidapi-sdk\src\Tests\obj\Debug\net8.0\Tests.AssemblyInfo.cs
+C:\Projects\t70.rapidapi-sdk\src\Tests\obj\Debug\net8.0\Tests.csproj.CoreCompileInputs.cache
+C:\Projects\t70.rapidapi-sdk\src\Tests\obj\Debug\net8.0\Tests.sourcelink.json
+C:\Projects\t70.rapidapi-sdk\src\Tests\obj\Debug\net8.0\Tests.csproj.AssemblyReference.cache
+C:\Projects\t70.rapidapi-sdk\src\Tests\bin\Debug\net8.0\Tests.deps.json
+C:\Projects\t70.rapidapi-sdk\src\Tests\bin\Debug\net8.0\Tests.dll
+C:\Projects\t70.rapidapi-sdk\src\Tests\bin\Debug\net8.0\Tests.pdb
+C:\Projects\t70.rapidapi-sdk\src\Tests\bin\Debug\net8.0\RapidApi.dll
+C:\Projects\t70.rapidapi-sdk\src\Tests\bin\Debug\net8.0\RapidApi.pdb
+C:\Projects\t70.rapidapi-sdk\src\Tests\obj\Debug\net8.0\Tests.csproj.Up2Date
+C:\Projects\t70.rapidapi-sdk\src\Tests\obj\Debug\net8.0\Tests.dll
+C:\Projects\t70.rapidapi-sdk\src\Tests\obj\Debug\net8.0\refint\Tests.dll
+C:\Projects\t70.rapidapi-sdk\src\Tests\obj\Debug\net8.0\Tests.pdb
+C:\Projects\t70.rapidapi-sdk\src\Tests\obj\Debug\net8.0\ref\Tests.dll

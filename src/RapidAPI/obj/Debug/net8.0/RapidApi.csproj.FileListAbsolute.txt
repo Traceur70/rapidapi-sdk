@@ -1,0 +1,13 @@
+C:\Projects\t70.rapidapi-sdk\src\RapidAPI\obj\Debug\net8.0\RapidApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\t70.rapidapi-sdk\src\RapidAPI\obj\Debug\net8.0\RapidApi.AssemblyInfoInputs.cache
+C:\Projects\t70.rapidapi-sdk\src\RapidAPI\obj\Debug\net8.0\RapidApi.AssemblyInfo.cs
+C:\Projects\t70.rapidapi-sdk\src\RapidAPI\obj\Debug\net8.0\RapidApi.csproj.CoreCompileInputs.cache
+C:\Projects\t70.rapidapi-sdk\src\RapidAPI\obj\Debug\net8.0\RapidApi.sourcelink.json
+C:\Projects\t70.rapidapi-sdk\src\RapidAPI\obj\Debug\net8.0\RapidApi.csproj.AssemblyReference.cache
+C:\Projects\t70.rapidapi-sdk\src\RapidAPI\bin\Debug\net8.0\RapidApi.deps.json
+C:\Projects\t70.rapidapi-sdk\src\RapidAPI\bin\Debug\net8.0\RapidApi.dll
+C:\Projects\t70.rapidapi-sdk\src\RapidAPI\bin\Debug\net8.0\RapidApi.pdb
+C:\Projects\t70.rapidapi-sdk\src\RapidAPI\obj\Debug\net8.0\RapidApi.dll
+C:\Projects\t70.rapidapi-sdk\src\RapidAPI\obj\Debug\net8.0\refint\RapidApi.dll
+C:\Projects\t70.rapidapi-sdk\src\RapidAPI\obj\Debug\net8.0\RapidApi.pdb
+C:\Projects\t70.rapidapi-sdk\src\RapidAPI\obj\Debug\net8.0\ref\RapidApi.dll
